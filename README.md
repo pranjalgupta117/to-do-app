@@ -1,2 +1,8 @@
-# to-do-app
-A "to do" app is a digital application designed to help users organize and manage their tasks by creating lists, setting due dates, adding reminders, and prioritizing items, essentially acting as a virtual checklist to keep track of things they need to accomplish, whether at work, home, or in personal life; popular examples include Micro
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
